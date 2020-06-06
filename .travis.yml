@@ -1,0 +1,6 @@
+language: csharp
+mono: none
+dotnet: 3.1
+solution: Lab_7_2_OOP.sln
+script:
+  - dotnet restore
